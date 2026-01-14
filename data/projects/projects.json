@@ -1,0 +1,958 @@
+{
+  "page": 1,
+  "total_pages": 1,
+  "data": [
+    {
+      "project_info": {
+        "id": 1,
+        "name": "Delta Signature",
+        "slug": "delta-signature",
+        "type": "Residential",
+        "status": "ongoing",
+        "configuration": "2 & 3 BHK",
+        "possession_date": "Dec 2030",
+        "price": "1.09 Cr"
+      },
+      "content": {
+        "description": "\n<p>Delta SIGNATURE is a 2B+G+12 storey premium residential tower strategically located in Pushak Nagar (Dapoli) Navi Mumbai , designed to offer a lavish lifestyle with luxurious amenities and modern architecture. The project emphasizes sustainability, aiming to minimize its environmental impact while enhancing resident's quality of life, making it not only a desirable home but also an attractive investment opportunity.</p>\n",
+        "hallmarks": [
+          "2 B+G+12 Storey Magnificent Tower",
+          "Spacious 2 & 3 BHK Luxury Homes",
+          "Extraordinary Health and Recreation Features on Podium",
+          "Ample Parking Spaces",
+          "Advanced Security and CCTV Surveillance",
+          "Premium commercial shops now available at Delta Signature."
+        ]
+      },
+      "location": {
+        "city_area": "Pushpak Nagar",
+        "address": "Pushpaknagar, Dapoli",
+        "google_map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3772.9969568600277!2d73.0764446!3d18.975741799999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c30025c936e5%3A0x4df7d14ea5c1b29d!2sDELTA%20SIGNATURE!5e0!3m2!1sen!2sin!4v1763374841353!5m2!1sen!2sin",
+        "connectivities": [
+          "JNPT Road",
+          "Atal Setu",
+          "Navi Mumbai Intl. Airport",
+          "Khandeshwar Railway Station",
+          "Kalamboli Junction",
+          "Panvel Railway Station",
+          "Galaxy Multispecialty Hospital",
+          "Nexus Seawoods"
+        ]
+      },
+      "rera_details": {
+        "rera_id": "P52000079568",
+        "rera_qr_image": "images/project-qr/delta_signature_P52000079568.jpeg"
+      },
+      "media": {
+        "featured_image": "images/projects/delta-signature-gallery-01.jpg",
+        "gallery": [
+          "images/projects/delta-signature-gallery-01.jpg",
+          "images/projects/delta-signature-gallery-02.jpg",
+          "images/projects/delta-signature-gallery-03.jpg",
+          "images/projects/delta-signature-gallery-04.jpg"
+        ],
+        "floor_plans": [
+          "images/projects/delta-plan-01.jpg",
+          "images/projects/delta-plan-02.jpg"
+        ],
+        "brochure": "https://test-rest-api.test/wp-content/uploads/2025/12/Delta-All-Projects-Brochure.pdf"
+      },
+      "amenities_details": {
+        "amenities": [
+          {
+            "amenity_name": "Meditation Area",
+            "font_awesome_icon": "fas fa-spa"
+          },
+          {
+            "amenity_name": "Swimming Pool",
+            "font_awesome_icon": "fas fa-swimmer"
+          },
+          {
+            "amenity_name": "Kids Play Area",
+            "font_awesome_icon": "fas fa-child"
+          },
+          {
+            "amenity_name": "Jogging Tracks",
+            "font_awesome_icon": "fas fa-running"
+          },
+          {
+            "amenity_name": "Senior Citizen Area",
+            "font_awesome_icon": "fas fa-users"
+          },
+          {
+            "amenity_name": "Advanced Security",
+            "font_awesome_icon": "fas fa-shield-alt"
+          },
+          {
+            "amenity_name": "CCTV Surveillance",
+            "font_awesome_icon": "fas fa-video"
+          },
+          {
+            "amenity_name": "Multipurpose Court",
+            "font_awesome_icon": "fas fa-basketball-ball"
+          },
+          {
+            "amenity_name": "Club house",
+            "font_awesome_icon": "fas fa-building"
+          },
+          {
+            "amenity_name": "High Speed Lift",
+            "font_awesome_icon": "fas fa-elevator"
+          },
+          {
+            "amenity_name": "Fire Safety Systems",
+            "font_awesome_icon": "fas fa-fire-extinguisher"
+          },
+          {
+            "amenity_name": "Power Backup",
+            "font_awesome_icon": "fas fa-battery-full"
+          }
+        ]
+      }
+    },
+    {
+      "project_info": {
+        "id": 2,
+        "name": "Delta Vistara",
+        "slug": "delta-vistara",
+        "type": "Residential",
+        "status": "ongoing",
+        "configuration": "2 & 3 BHK",
+        "possession_date": "Dec 2030",
+        "price": "1.31 Cr"
+      },
+      "content": {
+        "description": "\n<p>Delta Vistara is a G+13 storey premium residential tower strategically located in a prime area, designed to offer a lavish lifestyle with luxurious amenities and modern architecture. The project emphasizes sustainability, aiming to minimize its environmental impact while enhancing residents’ quality of life, making it not only a desirable home but also an attractive investment opportunity. </p>\n",
+        "hallmarks": [
+          "G+13 storeys magnificent tower.",
+          "Luxurious 2 & 3 BHK Homes",
+          "Situated in a prime location",
+          "Surrounded By Lush Green Spaces And State-Of-The-Art Infrastructure",
+          "Modern design with luxurious amenities"
+        ]
+      },
+      "location": {
+        "city_area": "Ulwe",
+        "address": "Ulwe, Navi Mumbai",
+        "google_map_src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7546.571753328031!2d73.032645!3d18.962978!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c3b98b9f9665%3A0x87797d20662b6e6a!2sDelta%20Vistara!5e0!3m2!1sen!2sin!4v1765176785819!5m2!1sen!2sin",
+        "connectivities": [
+          "Navi Mumbai Intl. Airport",
+          "Bamadongari Station",
+          "Ram Seth Thakur Sports Comlex",
+          "Atal Setu",
+          "Red Cliff School",
+          "JNPT Panvel Highway",
+          "Balaji Temple",
+          "Galaxy Multispecialty Hospital"
+        ]
+      },
+      "rera_details": {
+        "rera_id": "P52000053608",
+        "rera_qr_image": "images/project-qr/delta_vistara_P52000053608.png"
+      },
+      "media": {
+        "featured_image": "images/projects/delta-vistara-gallery-01.jpg",
+        "gallery": [
+          "images/projects/delta-vistara-gallery-01.jpg",
+          "images/projects/delta-vistara-gallery-02.jpg",
+          "images/projects/delta-vistara-gallery-03.jpg",
+          "images/projects/delta-vistara-gallery-04.jpg",
+          "images/projects/delta-vistara-gallery-05.jpg"
+        ],
+        "floor_plans": [
+          "images/projects/delta-plan-01.jpg",
+          "images/projects/delta-plan-02.jpg"
+        ],
+        "brochure": ""
+      },
+      "amenities_details": {
+        "amenities": [
+          {
+            "amenity_name": "Meditation Area",
+            "font_awesome_icon": "fas fa-spa"
+          },
+          {
+            "amenity_name": "Swimming Pool",
+            "font_awesome_icon": "fas fa-swimmer"
+          },
+          {
+            "amenity_name": "Kids Play Area",
+            "font_awesome_icon": "fas fa-child"
+          },
+          {
+            "amenity_name": "Jogging Tracks",
+            "font_awesome_icon": "fas fa-running"
+          },
+          {
+            "amenity_name": "Senior Citizen Area",
+            "font_awesome_icon": "fas fa-users"
+          },
+          {
+            "amenity_name": "Advanced Security",
+            "font_awesome_icon": "fas fa-shield-alt"
+          },
+          {
+            "amenity_name": "CCTV Surveillance",
+            "font_awesome_icon": "fas fa-video"
+          },
+          {
+            "amenity_name": "Multipurpose Court",
+            "font_awesome_icon": "fas fa-basketball-ball"
+          },
+          {
+            "amenity_name": "Club house",
+            "font_awesome_icon": "fas fa-building"
+          },
+          {
+            "amenity_name": "High Speed Lift",
+            "font_awesome_icon": "fas fa-elevator"
+          },
+          {
+            "amenity_name": "Fire Safety Systems",
+            "font_awesome_icon": "fas fa-fire-extinguisher"
+          },
+          {
+            "amenity_name": "Power Backup",
+            "font_awesome_icon": "fas fa-battery-full"
+          }
+        ]
+      }
+    },
+    {
+      "project_info": {
+        "id": 3,
+        "name": "Delta Stellar",
+        "slug": "delta-stellar",
+        "type": "Commercial",
+        "status": "ongoing",
+        "configuration": "Office Spaces",
+        "possession_date": "Dec 2030",
+        "price": "2.33 Cr"
+      },
+      "content": {
+        "description": "\n<p>Delta Stellar by Delta Group, located on Thane-Belapur Road in Nerul, Navi Mumbai, offers premium commercial office spaces in two G+31 storey towers. Upholding Delta Group's values of quality, innovation, and timely delivery, the project promises high ROI, strong appreciation, and exceptional amenities that enhance both aesthetics and lifestyle.</p>\n",
+        "hallmarks": [
+          "A Business Landmark With 2 Towers Of G+24 Storeys",
+          "Ideal Spaces For Large, Medium & Small Size Offices",
+          "Dynamically Designed Tower With Glass Façade",
+          "Office Spaces Starting From 500 Sq. Ft. To 15,000 Sq. Ft. Carpet Area",
+          "Elegant Double-Height Entrance Lobby",
+          "Lifestyle Amenities Including Garden, Cafeteria And Many More",
+          "Ample Parking Spaces Till 4th Floor"
+        ]
+      },
+      "location": {
+        "city_area": "Nerul",
+        "address": "Nerul, Navi Mumbai",
+        "google_map_src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3771.3039574326885!2d73.022219!3d19.050369!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c3461c250453%3A0x878eee00fa946387!2sDelta%20stellar!5e0!3m2!1sen!2sin!4v1765180562927!5m2!1sen!2sin",
+        "connectivities": [
+          "Navi Mumbai Intl. Airport",
+          "Juinagar Railway Station",
+          "Vashi Station",
+          "Nerul Railway Station",
+          "D.Y PATIL COLLEGE",
+          "Atal Setu"
+        ]
+      },
+      "rera_details": {
+        "rera_id": "P51700049320",
+        "rera_qr_image": "images/project-qr/delta_stellar_P51700049320.png"
+      },
+      "media": {
+        "featured_image": "images/projects/delta-stellar-gallery-01.jpg",
+        "gallery": [
+          "images/projects/delta-stellar-gallery-01.jpg",
+          "images/projects/delta-stellar-gallery-02.jpg",
+          "images/projects/delta-stellar-gallery-03.jpg",
+          "images/projects/delta-stellar-gallery-04.jpg"
+        ],
+        "floor_plans": [
+          "images/projects/delta-plan-01.jpg",
+          "images/projects/delta-plan-02.jpg"
+        ],
+        "brochure": ""
+      },
+      "amenities_details": {
+        "amenities": [
+          {
+            "amenity_name": "Entrance Lobby",
+            "font_awesome_icon": "fas fa-archway"
+          },
+          {
+            "amenity_name": "High-Speed Elevators",
+            "font_awesome_icon": "fas fa-elevator"
+          },
+          {
+            "amenity_name": "Cafeteria Area",
+            "font_awesome_icon": "fas fa-coffee"
+          },
+          {
+            "amenity_name": "Fire Safety System",
+            "font_awesome_icon": "fas fa-fire-extinguisher"
+          },
+          {
+            "amenity_name": "Garden Area",
+            "font_awesome_icon": "fas fa-tree"
+          },
+          {
+            "amenity_name": "Parking Spaces",
+            "font_awesome_icon": "fas fa-car"
+          },
+          {
+            "amenity_name": "CCTV Surveillance",
+            "font_awesome_icon": "fas fa-video"
+          },
+          {
+            "amenity_name": "Power Backup",
+            "font_awesome_icon": "fas fa-battery-full"
+          }
+        ]
+      }
+    },
+    {
+      "project_info": {
+        "id": 4,
+        "name": "Delta Prestige",
+        "slug": "delta-prestige",
+        "type": "Residential",
+        "status": "ongoing",
+        "configuration": "2 & 3 BHK",
+        "possession_date": "Dec 2030",
+        "price": "1.35 Cr"
+      },
+      "content": {
+        "description": "\n<p>Delta Prestige by Balaji Group offers luxury living in Panvel with a Ground + 14 tower featuring spacious 2, 3, and 5 BHKs. Located near Khandeshwar Station, it ensures excellent connectivity to highways, metro lines, and the Navi Mumbai-Pune Hyperloop. Built on a 6000 sq. mt. CIDCO plot, it boasts valet parking, smart access, a car spa, EV charging, concierge services, and 3-tier security. With top schools, hospitals, malls, and business hubs nearby, Delta Prestige blends luxury, convenience, and future-ready infrastructure.</p>\n",
+        "hallmarks": [
+          "Ground + 14 Storeyed Tower",
+          "CIDCO Tender Plot",
+          "Ultra-Premium Amenities",
+          "Largest 2 BHK in the Vicinity"
+        ]
+      },
+      "location": {
+        "city_area": "Panvel",
+        "address": "Panvel, Navi Mumbai",
+        "google_map_src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13009.919311661459!2d73.10100610466343!3d19.00706621432551!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e9ec6460ab1b%3A0xeea4d783ba1be48!2sDelta%20Prestige!5e0!3m2!1sen!2sin!4v1765185193968!5m2!1sen!2sin",
+        "connectivities": [
+          "Khandeshwar Station",
+          "Sion-Panvel Highway",
+          "JNPT Road",
+          "Kalamboli Junction",
+          "Alibaug-Virar Corridor",
+          "Panvel Railway Junction",
+          "SEZ Parks",
+          "Pillai's International School & College"
+        ]
+      },
+      "rera_details": {
+        "rera_id": "P52000078574",
+        "rera_qr_image": "images/project-qr/delta_stellar_P51700049320.png"
+      },
+      "media": {
+        "featured_image": "images/projects/delta-prestige-gallery-01.jpg",
+        "gallery": [
+          "images/projects/delta-prestige-gallery-01.jpg",
+          "images/projects/delta-prestige-gallery-02.jpg",
+          "images/projects/delta-prestige-gallery-03.jpg",
+          "images/projects/delta-prestige-gallery-04.jpg"
+        ],
+        "floor_plans": [
+          "images/projects/delta-plan-01.jpg",
+          "images/projects/delta-plan-02.jpg"
+        ],
+        "brochure": ""
+      },
+      "amenities_details": {
+        "amenities": [
+          {
+            "amenity_name": "Meditation Area",
+            "font_awesome_icon": "fas fa-spa"
+          },
+          {
+            "amenity_name": "Swimming Pool",
+            "font_awesome_icon": "fas fa-swimmer"
+          },
+          {
+            "amenity_name": "Kids Play Area",
+            "font_awesome_icon": "fas fa-child"
+          },
+          {
+            "amenity_name": "Jogging Tracks",
+            "font_awesome_icon": "fas fa-running"
+          },
+          {
+            "amenity_name": "Senior Citizen Area",
+            "font_awesome_icon": "fas fa-users"
+          },
+          {
+            "amenity_name": "Advanced Security",
+            "font_awesome_icon": "fas fa-shield-alt"
+          },
+          {
+            "amenity_name": "CCTV Surveillance",
+            "font_awesome_icon": "fas fa-video"
+          },
+          {
+            "amenity_name": "Multipurpose Court",
+            "font_awesome_icon": "fas fa-basketball-ball"
+          },
+          {
+            "amenity_name": "Club house",
+            "font_awesome_icon": "fas fa-building"
+          },
+          {
+            "amenity_name": "High Speed Lift",
+            "font_awesome_icon": "fas fa-elevator"
+          },
+          {
+            "amenity_name": "Fire Safety Systems",
+            "font_awesome_icon": "fas fa-fire-extinguisher"
+          },
+          {
+            "amenity_name": "Power Backup",
+            "font_awesome_icon": "fas fa-battery-full"
+          }
+        ]
+      }
+    },
+    {
+      "project_info": {
+        "id": 5,
+        "name": "Delta Palm Beach",
+        "slug": "delta-palm-beach",
+        "type": "Residential",
+        "status": "ongoing",
+        "configuration": "3 & 4 BHK",
+        "possession_date": "Dec 2030",
+        "price": "1.35 Cr"
+      },
+      "content": {
+        "description": "\n<p>Experience elevated living in a premium G+14-storey development with 13 wings, offering breathtaking Palm Beach views, city views, and peaceful podium-facing homes. Choose from luxurious and spacious 3 & 4 BHK residences designed for comfort and elegance. Enjoy the serene ambience of the Palm Beach belt, known for its scenic beauty and refreshing surroundings. With 40+ world-class lifestyle amenities and a prime location just off Palm Beach Road, this address promises convenience, exclusivity, and an upgraded way of life.</p>\n",
+        "hallmarks": [
+          "G+14 Floors with 13wings Palm Beach view, city view & podium facing",
+          "The apartments available are luxurious and spacious, offering the choice between 3 and 4 BHK.",
+          "Residents can enjoy the serene view of the Palm Beach area, which likely offers beautiful scenery and a relaxing atmosphere",
+          "The projects offers 40+lifestyles amenities.",
+          "Located near Palm Beach road."
+        ]
+      },
+      "location": {
+        "city_area": "Nerul",
+        "address": "Nerul, Navi Mumbai",
+        "google_map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3772.208344024971!2d73.01164477466361!3d19.010538854025384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c34cc0d9f2fd%3A0xdd8ec6bc6af1636b!2sDelta%20palm%20beach!5e0!3m2!1sen!2sin!4v1765186569370!5m2!1sen!2sin",
+        "connectivities": [
+          "Palm Beach Road",
+          "Bus Depot",
+          "Nerul Railway Station",
+          "Seawoods Station",
+          "Belapur Railway Station",
+          "Eastern Express Highway ",
+          "Terna Engineering College",
+          "D.Y Patil University"
+        ]
+      },
+      "rera_details": {
+        "rera_id": "P51700052109",
+        "rera_qr_image": "images/project-qr/delta_palmbeach_P51700052109.png"
+      },
+      "media": {
+        "featured_image": "images/projects/delta-palm-beach-gallery-01.jpg",
+        "gallery": [
+          "images/projects/delta-palm-beach-gallery-01.jpg",
+          "images/projects/delta-palm-beach-gallery-02.jpg",
+          "images/projects/delta-palm-beach-gallery-03.jpg",
+          "images/projects/delta-palm-beach-gallery-04.jpg"
+        ],
+        "floor_plans": [
+          "images/projects/delta-plan-01.jpg",
+          "images/projects/delta-plan-02.jpg"
+        ],
+        "brochure": ""
+      },
+      "amenities_details": {
+        "amenities": [
+          {
+            "amenity_name": "Meditation Area",
+            "font_awesome_icon": "fas fa-spa"
+          },
+          {
+            "amenity_name": "Swimming Pool",
+            "font_awesome_icon": "fas fa-swimmer"
+          },
+          {
+            "amenity_name": "Kids Play Area",
+            "font_awesome_icon": "fas fa-child"
+          },
+          {
+            "amenity_name": "Jogging Tracks",
+            "font_awesome_icon": "fas fa-running"
+          },
+          {
+            "amenity_name": "Senior Citizen Area",
+            "font_awesome_icon": "fas fa-users"
+          },
+          {
+            "amenity_name": "Advanced Security",
+            "font_awesome_icon": "fas fa-shield-alt"
+          },
+          {
+            "amenity_name": "CCTV Surveillance",
+            "font_awesome_icon": "fas fa-video"
+          },
+          {
+            "amenity_name": "Multipurpose Court",
+            "font_awesome_icon": "fas fa-basketball-ball"
+          },
+          {
+            "amenity_name": "Club house",
+            "font_awesome_icon": "fas fa-building"
+          },
+          {
+            "amenity_name": "High Speed Lift",
+            "font_awesome_icon": "fas fa-elevator"
+          },
+          {
+            "amenity_name": "Fire Safety Systems",
+            "font_awesome_icon": "fas fa-fire-extinguisher"
+          },
+          {
+            "amenity_name": "Power Backup",
+            "font_awesome_icon": "fas fa-battery-full"
+          }
+        ]
+      }
+    },
+    {
+      "project_info": {
+        "id": 6,
+        "name": "Delta Icon",
+        "slug": "delta-icon",
+        "type": "Residential",
+        "status": "ongoing",
+        "configuration": "2 & 3 BHK",
+        "possession_date": "Dec 2030",
+        "price": "2.50 Cr"
+      },
+      "content": {
+        "description": "\n<p>Delta Icon is a premium residential tower by Delta Group located at Plot No. 17, Sector 7, Airoli, Navi Mumbai. A sky-scaling G+31 storey building offering exclusively spacious 3 BHK apartments (approximately ~1,275 sq ft carpet) with refined finishes and Vastu compliance. Residents enjoy world-class amenities including a grand air-conditioned lobby, rooftop sea-view lounge, multi-level parking and 24/7 security with CCTV. Strategically located near IT hubs and major transport links, Delta Icon melds luxury and connectivity in Airoli's prime address.</p>\n",
+        "hallmarks": [
+          "A Sky-Scaling Tower Of G+31 Storeys",
+          "Residential Cum Commercial Development",
+          "3 BHK Luxury Residences Starting From 10th To 31st Floor",
+          "Extra-Spacious Homes With Finest Fitments",
+          "Grand AC Lobby With Italian Marble Flooring",
+          "Ample Parking Spaces Starting From 2nd To 8th Floor",
+          "Landmark Project At Prime Location Of Airoli, Sector 7"
+        ]
+      },
+      "location": {
+        "city_area": "Airoli",
+        "address": "Airoli, Navi Mumbai",
+        "google_map_src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7538.240128980346!2d72.995326!3d19.146221!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7bf34d74668f5%3A0x74fee4a423c03b32!2sDelta%20Icon!5e0!3m2!1sen!2sin!4v1765187780583!5m2!1sen!2sin",
+        "connectivities": [
+          "S.I.E.S COLLEGE",
+          "Airoli Railway Station",
+          "Navi Mumbai bus depot",
+          "Navi Mumbai Intl. Airport",
+          "Siddhivinayak Shopping Complex",
+          "Mulund-Airoli link road",
+          "Thane-Belapur Road",
+          "Eastern Express Highway"
+        ]
+      },
+      "rera_details": {
+        "rera_id": "P51700047643",
+        "rera_qr_image": "images/project-qr/delta_icon_P51700047643.png"
+      },
+      "media": {
+        "featured_image": "images/projects/delta-icon-gallery-01.jpg",
+        "gallery": [
+          "images/projects/delta-icon-gallery-01.jpg",
+          "images/projects/delta-icon-gallery-02.jpg",
+          "images/projects/delta-icon-gallery-03.jpg",
+          "images/projects/delta-icon-gallery-04.jpg"
+        ],
+        "floor_plans": [
+          "images/projects/delta-plan-01.jpg",
+          "images/projects/delta-plan-02.jpg"
+        ],
+        "brochure": ""
+      },
+      "amenities_details": {
+        "amenities": [
+          {
+            "amenity_name": "Meditation Area",
+            "font_awesome_icon": "fas fa-spa"
+          },
+          {
+            "amenity_name": "Swimming Pool",
+            "font_awesome_icon": "fas fa-swimmer"
+          },
+          {
+            "amenity_name": "Kids Play Area",
+            "font_awesome_icon": "fas fa-child"
+          },
+          {
+            "amenity_name": "Jogging Tracks",
+            "font_awesome_icon": "fas fa-running"
+          },
+          {
+            "amenity_name": "Senior Citizen Area",
+            "font_awesome_icon": "fas fa-users"
+          },
+          {
+            "amenity_name": "Advanced Security",
+            "font_awesome_icon": "fas fa-shield-alt"
+          },
+          {
+            "amenity_name": "CCTV Surveillance",
+            "font_awesome_icon": "fas fa-video"
+          },
+          {
+            "amenity_name": "Multipurpose Court",
+            "font_awesome_icon": "fas fa-basketball-ball"
+          },
+          {
+            "amenity_name": "Club house",
+            "font_awesome_icon": "fas fa-building"
+          },
+          {
+            "amenity_name": "High Speed Lift",
+            "font_awesome_icon": "fas fa-elevator"
+          },
+          {
+            "amenity_name": "Fire Safety Systems",
+            "font_awesome_icon": "fas fa-fire-extinguisher"
+          },
+          {
+            "amenity_name": "Power Backup",
+            "font_awesome_icon": "fas fa-battery-full"
+          }
+        ]
+      }
+    },
+    {
+      "project_info": {
+        "id": 7,
+        "name": "Delta Heights",
+        "slug": "delta-heights",
+        "type": "Residential",
+        "status": "completed",
+        "configuration": "2 BHK",
+        "possession_date": "Dec 2030",
+        "price": "2.50 Cr"
+      },
+      "content": {
+        "description": "\n<p>Delta Heights is a G+14 storey residential development in Ulwe, offering well-planned and affordable 2 BHK luxurious apartments with panoramic views. Designed to provide comfort, convenience and modern living, these magnificent residences come equipped with ultramodern amenities and premium lifestyle facilities. Strategically located amidst the serene natural surroundings of Ulwe, the project ensures excellent connectivity to major routes, daily conveniences and upcoming infrastructure. With its spacious layouts, prime location and fast-growing neighbourhood, Delta Heights stands out as an ideal choice for homebuyers seeking quality urban living at the right price.</p>\n",
+        "hallmarks": [
+          "G+14 Storeys Magnificent Residences",
+          "2 BHK Luxurious Apartments With Panoramic Vistas",
+          "Ultramodern Amenities And Premium Facilities",
+          "Strategically Located Amidst Serene Nature Of Ulwe",
+          "Excellent Connectivity & Conveniences"
+        ]
+      },
+      "location": {
+        "city_area": "Ulwe",
+        "address": "Ulwe, Navi Mumbai",
+        "google_map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3772.8584857218025!2d73.0232438!3d18.981856199999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c3757ade6565%3A0xa2ecfdc26ae1a2ad!2sDelta%20Heights!5e0!3m2!1sen!2sin!4v1765195284808!5m2!1sen!2sin",
+        "connectivities": [
+          "GD Goenka International School",
+          "Tilak College",
+          "The Millennium Multispecialty Hospital",
+          "Navi Mumbai Intl. Airport",
+          "Bamandongri",
+          "Chhatrapati Shivaji Maharaj Stadium",
+          "Seawoods Grand",
+          "Atal Setu"
+        ]
+      },
+      "rera_details": {
+        "rera_id": "P52000030771",
+        "rera_qr_image": "images/project-qr/delta_heights_P52000030771.png"
+      },
+      "media": {
+        "featured_image": "images/projects/delta-heights-gallery-01.jpg",
+        "gallery": [
+          "images/projects/delta-heights-gallery-01.jpg",
+          "images/projects/delta-heights-gallery-02.jpg",
+          "images/projects/delta-heights-gallery-03.jpg",
+          "images/projects/delta-heights-gallery-04.jpg"
+        ],
+        "floor_plans": [
+          "images/projects/delta-plan-01.jpg",
+          "images/projects/delta-plan-02.jpg"
+        ],
+        "brochure": ""
+      },
+      "amenities_details": {
+        "amenities": [
+          {
+            "amenity_name": "Meditation Area",
+            "font_awesome_icon": "fas fa-spa"
+          },
+          {
+            "amenity_name": "Swimming Pool",
+            "font_awesome_icon": "fas fa-swimmer"
+          },
+          {
+            "amenity_name": "Kids Play Area",
+            "font_awesome_icon": "fas fa-child"
+          },
+          {
+            "amenity_name": "Jogging Tracks",
+            "font_awesome_icon": "fas fa-running"
+          },
+          {
+            "amenity_name": "Senior Citizen Area",
+            "font_awesome_icon": "fas fa-users"
+          },
+          {
+            "amenity_name": "Advanced Security",
+            "font_awesome_icon": "fas fa-shield-alt"
+          },
+          {
+            "amenity_name": "CCTV Surveillance",
+            "font_awesome_icon": "fas fa-video"
+          },
+          {
+            "amenity_name": "Multipurpose Court",
+            "font_awesome_icon": "fas fa-basketball-ball"
+          },
+          {
+            "amenity_name": "Club house",
+            "font_awesome_icon": "fas fa-building"
+          },
+          {
+            "amenity_name": "High Speed Lift",
+            "font_awesome_icon": "fas fa-elevator"
+          },
+          {
+            "amenity_name": "Fire Safety Systems",
+            "font_awesome_icon": "fas fa-fire-extinguisher"
+          },
+          {
+            "amenity_name": "Power Backup",
+            "font_awesome_icon": "fas fa-battery-full"
+          }
+        ]
+      }
+    },
+    {
+      "project_info": {
+        "id": 8,
+        "name": "Delta Riviera",
+        "slug": "delta-riviera",
+        "type": "Residential",
+        "status": "completed",
+        "configuration": "2 BHK",
+        "possession_date": "Dec 2030",
+        "price": "2.50 Cr"
+      },
+      "content": {
+        "description": "\n<p>Delta Riviera by Delta Group is an under-construction project in Ulwe, Navi Mumbai, offering luxury with the blend of elegance and exclusivity. This upcoming address will be home for designer residences, ensuring comfort and well-being to its owners. Delta Riviera is scheduled for possession in Sep, 2026 and will offer expansive apartments in various configurations.</p>\n",
+        "hallmarks": [
+          "3 Magnificent Towers With City View",
+          "A Wing - G+7 Storeys And B & C Wing - G + 14 Storeys",
+          "2 & 3 BHK Luxurious Residences & Retail Spaces",
+          "Ultramodern Amenities And Premium Facilities",
+          "Located Near Trans Harbour Link & International Airport"
+        ]
+      },
+      "location": {
+        "city_area": "Ulwe",
+        "address": "Ulwe, Navi Mumbai",
+        "google_map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3773.088043464325!2d73.0121497!3d18.9717187!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c30015091c1d%3A0x6d180c9d2a01688e!2sDelta%20Riviera!5e0!3m2!1sen!2sin!4v1765195626780!5m2!1sen!2sin",
+        "connectivities": [
+          "Moru Narayan Mhatre Vidyalaya",
+          "Bamandongri railway station",
+          "Sapphire Boutique Hotel",
+          "Navi Mumbai Intl. Airport",
+          "Belapur Terminal Metro Station",
+          "Chhatrapati Shivaji Maharaj Stadium",
+          "Seawoods Grand",
+          "Atal Setu"
+        ]
+      },
+      "rera_details": {
+        "rera_id": "P52000048281",
+        "rera_qr_image": "images/project-qr/delta_riviera_P52000048281.png"
+      },
+      "media": {
+        "featured_image": "images/projects/delta-riviera-gallery-01.jpg",
+        "gallery": [
+          "images/projects/delta-riviera-gallery-01.jpg",
+          "images/projects/delta-riviera-gallery-02.jpg",
+          "images/projects/delta-riviera-gallery-03.jpg",
+          "images/projects/delta-riviera-gallery-04.jpg"
+        ],
+        "floor_plans": [
+          "images/projects/delta-plan-01.jpg",
+          "images/projects/delta-plan-02.jpg"
+        ],
+        "brochure": ""
+      },
+      "amenities_details": {
+        "amenities": [
+          {
+            "amenity_name": "Meditation Area",
+            "font_awesome_icon": "fas fa-spa"
+          },
+          {
+            "amenity_name": "Swimming Pool",
+            "font_awesome_icon": "fas fa-swimmer"
+          },
+          {
+            "amenity_name": "Kids Play Area",
+            "font_awesome_icon": "fas fa-child"
+          },
+          {
+            "amenity_name": "Jogging Tracks",
+            "font_awesome_icon": "fas fa-running"
+          },
+          {
+            "amenity_name": "Senior Citizen Area",
+            "font_awesome_icon": "fas fa-users"
+          },
+          {
+            "amenity_name": "Advanced Security",
+            "font_awesome_icon": "fas fa-shield-alt"
+          },
+          {
+            "amenity_name": "CCTV Surveillance",
+            "font_awesome_icon": "fas fa-video"
+          },
+          {
+            "amenity_name": "Multipurpose Court",
+            "font_awesome_icon": "fas fa-basketball-ball"
+          },
+          {
+            "amenity_name": "Club house",
+            "font_awesome_icon": "fas fa-building"
+          },
+          {
+            "amenity_name": "High Speed Lift",
+            "font_awesome_icon": "fas fa-elevator"
+          },
+          {
+            "amenity_name": "Fire Safety Systems",
+            "font_awesome_icon": "fas fa-fire-extinguisher"
+          },
+          {
+            "amenity_name": "Power Backup",
+            "font_awesome_icon": "fas fa-battery-full"
+          }
+        ]
+      }
+    },
+    {
+      "project_info": {
+        "id": 9,
+        "name": "Delta Luxuria",
+        "slug": "delta-luxuria",
+        "type": "Residential",
+        "status": "ongoing",
+        "configuration": "2 BHK",
+        "possession_date": "Dec 2030",
+        "price": "2.50 Cr"
+      },
+      "content": {
+        "description": "\n<p>Delta Luxuria by Delta Group is an under-construction project in Sector 19 Airoli, Navi Mumbai, offering luxury with the blend of elegance and exclusivity. This upcoming address will be home for designer residences, ensuring comfort and well-being to its owners. Delta Luxuria is scheduled for possession in Apr, 2027 and will offer expansive apartments in various configurations. Delta Luxuria has uniquely designed floor plans and layouts to ensure ease and convenience for its residents. </p>\n",
+        "hallmarks": [
+          "30 Storey Stand Alone Tower",
+          "2 & 3 BHK Limited Edition Deck Homes In A High Rise Tower",
+          "Ample Vehicle Parking Space",
+          "Lifestyle Podium With 15+ Amenities For All Age Groups",
+          "Premium Specifications, Fittings And Brand Experiences",
+          "Located In Airoli's Most Central Address - Sector 19"
+        ]
+      },
+      "location": {
+        "city_area": "Airoli",
+        "address": "Airoli, Navi Mumbai",
+        "google_map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.8629245914485!2d72.9939933!3d19.1574766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7bf8cd84674db%3A0xf639848aecbbbfcd!2sDelta%20Luxuria%20Airoli!5e0!3m2!1sen!2sin!4v1765196529619!5m2!1sen!2sin",
+        "connectivities": [
+          "Eastern Expressway",
+          "Mulund-Airoli Road ",
+          "Thane-Belapur Road",
+          "Airoli Station",
+          "Rajiv Gandhi Garden ",
+          "Datta Meghe Engineering College",
+          "Reliable Tech Park ",
+          "Mindspace Tech Park"
+        ]
+      },
+      "rera_details": {
+        "rera_id": "P51700035130",
+        "rera_qr_image": "images/project-qr/delta_luxuria_P51700035130.png"
+      },
+      "media": {
+        "featured_image": "images/projects/delta-luxuria-gallery-01.jpg",
+        "gallery": [
+          "images/projects/delta-luxuria-gallery-01.jpg",
+          "images/projects/delta-luxuria-gallery-02.jpg",
+          "images/projects/delta-luxuria-gallery-03.jpg",
+          "images/projects/delta-luxuria-gallery-04.jpg",
+          "images/projects/delta-luxuria-gallery-05.jpg"
+        ],
+        "floor_plans": [
+          "images/projects/delta-plan-01.jpg",
+          "images/projects/delta-plan-02.jpg"
+        ],
+        "brochure": ""
+      },
+      "amenities_details": {
+        "amenities": [
+          {
+            "amenity_name": "Meditation Area",
+            "font_awesome_icon": "fas fa-spa"
+          },
+          {
+            "amenity_name": "Swimming Pool",
+            "font_awesome_icon": "fas fa-swimmer"
+          },
+          {
+            "amenity_name": "Kids Play Area",
+            "font_awesome_icon": "fas fa-child"
+          },
+          {
+            "amenity_name": "Jogging Tracks",
+            "font_awesome_icon": "fas fa-running"
+          },
+          {
+            "amenity_name": "Senior Citizen Area",
+            "font_awesome_icon": "fas fa-users"
+          },
+          {
+            "amenity_name": "Advanced Security",
+            "font_awesome_icon": "fas fa-shield-alt"
+          },
+          {
+            "amenity_name": "CCTV Surveillance",
+            "font_awesome_icon": "fas fa-video"
+          },
+          {
+            "amenity_name": "Multipurpose Court",
+            "font_awesome_icon": "fas fa-basketball-ball"
+          },
+          {
+            "amenity_name": "Club house",
+            "font_awesome_icon": "fas fa-building"
+          },
+          {
+            "amenity_name": "High Speed Lift",
+            "font_awesome_icon": "fas fa-elevator"
+          },
+          {
+            "amenity_name": "Fire Safety Systems",
+            "font_awesome_icon": "fas fa-fire-extinguisher"
+          },
+          {
+            "amenity_name": "Power Backup",
+            "font_awesome_icon": "fas fa-battery-full"
+          }
+        ]
+      }
+    }
+  ]
+}

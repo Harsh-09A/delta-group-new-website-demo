@@ -1,0 +1,19 @@
+RewriteEngine On
+RewriteBase /
+
+
+
+# Property pages like /blog/slug
+# RewriteRule ^/blog/([a-z0-9-]+)/?$ blog-details-test?slug=$1 [L,QSA]
+RewriteRule ^blog/([^/]+)/?$ blog-details.php?slug=$1 [L,QSA]
+
+# Property pages like /blog/slug
+# RewriteRule ^property/([^/]+)/?$ property-details.php?slug=$1 [L,QSA]
+RewriteRule ^property/([^/]+)/?$ property-details.php?slug=$1 [L,QSA]
+
+
+
+# Fallback 404
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . 404.php [L]
