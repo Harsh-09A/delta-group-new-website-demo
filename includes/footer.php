@@ -75,32 +75,38 @@
                   <li>
                     <a
                       class="facebook"
-                      href="https://www.facebook.com/"
+                      href="https://www.facebook.com/people/The-Delta-Group/61564960661769/"
                       target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
                   </li>
                   <li>
                     <a
                       class="instagram"
-                      href="http://www.instagram.com"
+                      href="https://www.instagram.com/deltagroup_navimumbai/"
                       target="_blank"><i class="fa-brands fa-instagram"></i></a>
                   </li>
                   <li>
                     <a
                       class="twitter"
-                      href="http://www.twitter.com"
+                      href="https://x.com/DELTAnavimumbai"
                       target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
                   </li>
                   <li>
                     <a
                       class="linkedin"
-                      href="http://www.linkedin.com"
+                      href="https://www.linkedin.com/company/deltagroupnavimumbai"
                       target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
                   </li>
                   <li>
                     <a
                       class="youtube"
-                      href="http://www.youtube.com"
+                      href="https://www.youtube.com/@thedeltagroup07"
                       target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                  </li>
+                  <li>
+                    <a
+                      class="whatsapp"
+                      href="https://whatsapp.com/channel/0029VbCS5b79MF99Pg5MoL2R"
+                      target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
                   </li>
                 </ul>
                 <div class="mt-10px pt-20px d-flex w-100">

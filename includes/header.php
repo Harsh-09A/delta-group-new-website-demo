@@ -80,7 +80,7 @@
               <div class="d-lg-block">
                 <div
                   class="alt-font fs-19 lg-fs-16 widget-text fw-600 rounded-5 border-1 border-solid ps-15px pe-15px pt-5px pb-5px text-white header-connect-button">
-                  <a href="tel:1800222000" class="text-white me-15px">
+                  <a href="tel:+918448449226" class="text-white me-15px">
                     <i class="feather icon-feather-phone-call animation-zoom">
                     </i>
                   </a>
@@ -89,7 +89,7 @@
                     class="text-white me-15px">
                     <i class="feather icon-feather-mail animation-zoom"> </i>
                   </a>
-                  <a href="tel:1800222000" class="text-white">
+                  <a href="https://whatsapp.com/channel/0029VbCS5b79MF99Pg5MoL2R" class="text-white">
                     <i class="fa fa-brands fa-whatsapp animation-zoom"> </i>
                   </a>
                 </div>

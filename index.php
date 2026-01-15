@@ -502,7 +502,7 @@ include 'includes/head.php';
                     </a>
                   </div>
                   <p class="m-0">
-                    <?php echo $project['location']['address']; ?>
+                    <?php echo $project['location']['city_area']; ?>
                   </p>
 
                   <div class="row g-0">
