@@ -5,8 +5,8 @@
     <meta name="author" content="PropAdvisor" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta name="description" content="We Bring You Home" />
-    <base href="/delta-group-new-website-demo/" />
-    <!-- <base href="/" /> -->
+    <!-- <base href="/delta-group-new-website-demo/" /> -->
+    <base href="/" />
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/icons/favicon-96x96.png" />
     <link rel="apple-touch-icon" href="images/icons/apple-icon-114x114.png" />

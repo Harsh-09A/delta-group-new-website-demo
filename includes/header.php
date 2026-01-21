@@ -89,7 +89,7 @@
                     class="text-white me-15px">
                     <i class="feather icon-feather-mail animation-zoom"> </i>
                   </a>
-                  <a href="https://whatsapp.com/channel/0029VbCS5b79MF99Pg5MoL2R" class="text-white">
+                  <a href="https://wa.me/+919152477717" class="text-white">
                     <i class="fa fa-brands fa-whatsapp animation-zoom"> </i>
                   </a>
                 </div>
