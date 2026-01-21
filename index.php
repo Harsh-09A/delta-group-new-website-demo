@@ -554,8 +554,8 @@ include 'includes/head.php';
                   </div>
                   <div class="col text-end">
                     <a
-                      href="<?php echo buildUrl('property-details.php', $project['project_info']['slug']); ?>"
-                      class="btn btn-transparent-base-color btn-very-small btn-round-edge fw-600">Download Brochure</a>
+                      href="#popup-contact-form"
+                      class="btn btn-transparent-base-color btn-very-small btn-round-edge fw-600 popup-with-move-anim">Download Brochure</a>
                   </div>
                 </div>
               </div>
@@ -931,7 +931,11 @@ include 'includes/head.php';
   </section>
   <!-- end cta section -->
 
+
+  <?php include_once "./includes/popup-form.php" ?>
+
   <?php include_once "./includes/footer.php" ?>
+
 
   <!-- start scroll progress -->
   <div class="scroll-progress d-none d-xxl-block">

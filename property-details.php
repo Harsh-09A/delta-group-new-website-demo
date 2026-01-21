@@ -396,16 +396,19 @@ $projectName = $project['project_info']['slug'];
               <span class="text-dark-gray fs-24 fw-600 alt-font mb-25px d-block">Downloads</span>
 
               <div class="row">
-                <?php // if (!empty($project['media']['brochure'])): ?>
+                <?php // if (!empty($project['media']['brochure'])): 
+                ?>
                   <div class="col-md-12 mb-40px sm-mb-30px">
                     <a
-                      href="<?php // echo $project['media']['brochure']; ?>"
+                      href="<?php // echo $project['media']['brochure']; 
+                            ?>"
                       class="btn btn-dark-gray btn-small btn-round-edge fw-600"
                       download>
                       <i class="fa-solid fa-download me-10px"></i> Download Brochure
                     </a>
                   </div>
-                <?php // endif; ?>
+                <?php // endif; 
+                ?>
               </div>
 
             </div>
@@ -672,8 +675,8 @@ $projectName = $project['project_info']['slug'];
                   </div>
                   <div class="col text-end">
                     <a
-                      href="<?php echo buildUrl('property-details.php', $project['project_info']['slug']); ?>"
-                      class="btn btn-transparent-base-color btn-very-small btn-round-edge fw-600">Download Brochure</a>
+                      href="#popup-contact-form"
+                      class="btn btn-transparent-base-color btn-very-small btn-round-edge fw-600 popup-with-move-anim">Download Brochure</a>
                   </div>
                 </div>
               </div>
@@ -685,6 +688,8 @@ $projectName = $project['project_info']['slug'];
     </div>
   </section>
   <!-- end section -->
+
+  <?php include_once "./includes/popup-form.php" ?>
 
   <?php include_once "./includes/footer.php" ?>
 
