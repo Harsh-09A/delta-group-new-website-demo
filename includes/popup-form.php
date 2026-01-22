@@ -1,7 +1,7 @@
  <!-- start contact popup -->
  <div id="popup-contact-form" class="container p-0 contact-form-style-01 position-relative text-center mfp-hide">
      <div class="row g-0">
-         <div class="col-lg-5 cover-background md-h-600px xs-h-400px" style="background-image:url('https://placehold.co/800x770');"></div>
+         <div class="col-lg-5 cover-background md-h-600px xs-h-400px" style="background-image:url('images/common/popup_banner.jpeg');"></div>
          <div class="col-lg-7">
              <div class="p-10 lg-p-10 bg-white">
                  <span class="fs-18 mb-10px">Looking for a finance agent?</span>

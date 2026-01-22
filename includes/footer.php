@@ -57,8 +57,8 @@
               Help Center
             </span>
             <ul class="footer_text-white">
-              <li><a href="#">Privacy Policy</a></li>
-              <li><a href="#">Terms & Conditions</a></li>
+              <li><a href="privacy-policy.php">Privacy Policy</a></li>
+              <li><a href="terms-and-conditions.php">Terms & Conditions</a></li>
               <li><a href="#">Career</a></li>
             </ul>
           </div>
